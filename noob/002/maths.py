@@ -1,18 +1,18 @@
-# This is to learn about types of maths available in python
+# # This is to learn about types of maths available in python
 
 friends = 0
-# # add
-# # friends += 1
-# # sub
+# add
+# friends += 1
+# sub
 # friends -= 1
-# # mul
+# mul
 # friends *= 2
-# # div
+# div
 # friends /= 2
 # exp
-friends **= 2
+# friends **= 2
 # mod
 friends %= 2
 
 
-print(friends)
+# print(friends)
